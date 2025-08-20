@@ -3,7 +3,10 @@
 *::after {
   box-sizing: border-box;
 }
-
+body,* {
+  font-family: 'Vazir', sans-serif;
+  direction: rtl;
+}
 html, body {
   padding: 0;
   margin: 0;
